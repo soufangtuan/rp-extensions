@@ -1,0 +1,14 @@
+{
+  "id": "dtb-patch",
+  "url": "https://raw.githubusercontent.com/soufangtuan/rp-extensions/main/dtb-patch/rpext-index.json",
+  "info": {
+   "name": "Device tree binary",
+   "description": "Create your own device tree binary",
+   "author_url": "https://github.com/soufangtuan/1622/main/",
+   "packer_url": "https://github.com/soufangtuan/1622/main/",
+   "help_url": "https://github.com/soufangtuan/1622/main/"    
+  },
+  "releases": {
+   "dva1622_42962": "https://raw.githubusercontent.com/soufangtuan/1622/main/Recipes/universal.json"
+  }
+}
