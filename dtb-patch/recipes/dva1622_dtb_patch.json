@@ -3,19 +3,19 @@
   "files": [
     {
       "name": "dtb_patch_rd.sh",
-      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb_rd.sh",
+      "url": "https://raw.githubusercontent.com/soufangtuan/rp-extensions/main/dtb-patch/releases/dtb_patch_rd.sh",
       "sha256": "1db2fa20ca64fd10f34ad674451c971d10791ce8d968baf26d8f1e36bf76fe21",
       "packed": false
     },
     {
       "name": "dtb_patch.sh",
-      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb.sh",
+      "url": "https://raw.githubusercontent.com/soufangtuan/rp-extensions/main/dtb-patch/releases/dtb_patch.sh",
       "sha256": "1a8f33fb179515f0a75dedf2493e288657074f8053e32373165c9657b548fadc",
       "packed": false
     },
     {
       "name": "dva1622_model.dtb",
-      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/dva1622_model.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/rp-extensions/main/dtb-patch/releases/dva1622_model.dtb",
       "sha256": "a0e9a11a973b0fa3170c9f3a0b9fb4181f0f604ccd9b5352dcf3aca44a6f3ac4",
       "packed": false
     }
