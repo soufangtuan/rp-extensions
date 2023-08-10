@@ -9,6 +9,6 @@
    "help_url": "https://github.com/soufangtuan/rp-extensions/main/dtb-patch/"    
   },
   "releases": {
-   "dva1622_42962": "https://raw.githubusercontent.com/soufangtuan/rp-extensions/main/dtb-patch/Recipes/universal.json"
+   "dva1622_42962": "https://raw.githubusercontent.com/soufangtuan/rp-extensions/main/dtb-patch/recipes/universal.json"
   }
 }
